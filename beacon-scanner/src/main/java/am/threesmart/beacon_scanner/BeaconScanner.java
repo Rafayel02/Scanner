@@ -9,6 +9,7 @@ public class BeaconScanner {
 
     public static void start() {
         health = "RUNNING";
+
         // TODO implement logic
     }
 
